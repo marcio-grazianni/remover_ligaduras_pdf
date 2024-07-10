@@ -4,6 +4,7 @@
 *~
 *.ps1
 *.pdf
+*.epub
 __pycache__
 db.sqlite3
 /static
